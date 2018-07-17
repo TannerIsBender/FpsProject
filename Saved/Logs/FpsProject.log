@@ -2555,3 +2555,104 @@ LogInit: Object subsystem initialized
 [2018.07.17-01.25.10:667][ 86]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_94:PersistentLevel.Actor_30.DebugSkelMeshComponent_47) - call TermArticulated first.
 [2018.07.17-01.25.10:938][ 86]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
 [2018.07.17-01.26.19:344][839]LogUObjectGlobals: Created PersistentFrame Addr=0x00000143b12217c0, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.26.48:141][959]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000143b12217c0, Size=4
+[2018.07.17-01.26.48:141][959]LogUObjectGlobals: Created PersistentFrame Addr=0x00000143772d46d0, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_52:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.26.48:149][959]LogUObjectGlobals: Created PersistentFrame Addr=0x00000143772d4a90, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.26.50:557][119]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000143772d4a90, Size=4
+[2018.07.17-01.26.50:557][119]LogUObjectGlobals: Created PersistentFrame Addr=0x00000143772d4a90, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_53:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.26.50:566][119]LogUObjectGlobals: Created PersistentFrame Addr=0x00000143772d76f0, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.27.06:231][153]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000143772d76f0, Size=4
+[2018.07.17-01.27.06:231][153]LogUObjectGlobals: Created PersistentFrame Addr=0x00000143727e1f90, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_54:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.27.06:239][153]LogUObjectGlobals: Created PersistentFrame Addr=0x00000143727e31f8, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.27.07:961][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000143727e31f8, Size=4
+[2018.07.17-01.27.07:961][256]LogUObjectGlobals: Created PersistentFrame Addr=0x00000143727e31f8, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_55:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.27.07:970][256]LogUObjectGlobals: Created PersistentFrame Addr=0x00000143727e35b8, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.27.10:726][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000143727e35b8, Size=4
+[2018.07.17-01.27.10:726][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014372a07420, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_56:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.27.10:734][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014372a04cd0, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.27.12:840][569]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014372a04cd0, Size=4
+[2018.07.17-01.27.12:840][569]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014375c50ba0, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_57:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.27.12:849][569]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014375c52b70, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.27.13:707][618]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014375c52b70, Size=4
+[2018.07.17-01.27.13:707][618]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014375c52b70, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_58:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.27.13:714][618]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014375c52540, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.27.15:715][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014375c52540, Size=4
+[2018.07.17-01.27.15:715][755]LogUObjectGlobals: Created PersistentFrame Addr=0x00000143bc53afb0, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_59:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.27.15:722][755]LogUObjectGlobals: Created PersistentFrame Addr=0x00000143bc53b018, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.27.16:611][810]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000143bc53b018, Size=4
+[2018.07.17-01.27.16:611][810]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014404f05720, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_60:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.27.16:619][810]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014404f072c0, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.28.10:671][481]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014404f072c0, Size=4
+[2018.07.17-01.28.10:671][481]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014404f072c0, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_61:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.28.10:679][481]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014404f06e00, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.28.25:537][456]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014404f06e00, Size=4
+[2018.07.17-01.28.25:537][456]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014372c7bbc0, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_62:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.28.25:541][456]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014372c79e88, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.28.49:430][366]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014372c79e88, Size=4
+[2018.07.17-01.28.49:430][366]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014372c79e88, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_63:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.28.49:439][366]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014372c79b10, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.29.01:497][208]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014372c79b10, Size=4
+[2018.07.17-01.29.01:497][208]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014372c79b10, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_64:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.29.01:507][208]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014372c7a740, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SKEL_SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.29.11:131][844]LogSavePackage: Save=67.62ms
+[2018.07.17-01.29.11:131][844]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/SWAT_AnimBP0952784844DFF089565767B166D5C020.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.uasset'
+[2018.07.17-01.29.11:135][844]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.uasset
+[2018.07.17-01.29.11:502][868]BlueprintLog: New page: Compile SWAT_AnimBP
+[2018.07.17-01.29.11:515][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014372c7a740, Size=4
+[2018.07.17-01.29.11:515][868]LogUObjectGlobals: Created PersistentFrame Addr=0x00000143ebe88c78, Size=4, Default__SKEL_SWAT_AnimBP_C Function /Engine/Transient.REINST_SKEL_SWAT_AnimBP_C_65:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.29.11:528][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000143fff74100, Size=112
+[2018.07.17-01.29.11:528][868]LogUObjectGlobals: Created PersistentFrame Addr=0x00000144242e97c0, Size=112, Default__SWAT_AnimBP_C Function /Engine/Transient.REINST_SWAT_AnimBP_C_66:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.29.11:538][868]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014424123cf0, Size=112, Default__SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.29.11:679][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014372c79b10, Size=4
+[2018.07.17-01.29.11:679][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014372c79e88, Size=4
+[2018.07.17-01.29.11:679][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014372c7bbc0, Size=4
+[2018.07.17-01.29.11:679][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014404f072c0, Size=4
+[2018.07.17-01.29.11:679][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000143772d46d0, Size=4
+[2018.07.17-01.29.11:679][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014404f05720, Size=4
+[2018.07.17-01.29.11:679][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000143bc53afb0, Size=4
+[2018.07.17-01.29.11:679][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014375c52b70, Size=4
+[2018.07.17-01.29.11:679][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014375c50ba0, Size=4
+[2018.07.17-01.29.11:679][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014372a07420, Size=4
+[2018.07.17-01.29.11:679][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000143727e31f8, Size=4
+[2018.07.17-01.29.11:681][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000143727e1f90, Size=4
+[2018.07.17-01.29.11:681][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000143772d4a90, Size=4
+[2018.07.17-01.29.11:682][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000143ebe88c78, Size=4
+[2018.07.17-01.31.46:154][386]LogSavePackage: Save=71.41ms
+[2018.07.17-01.31.46:154][386]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/SWAT_AnimBP3740771B4C45BED84C0F00833034F1F8.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.uasset'
+[2018.07.17-01.31.46:157][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.uasset
+[2018.07.17-01.32.47:370][373]LogSavePackage: Save=74.23ms
+[2018.07.17-01.32.47:370][373]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/SWAT_AnimBPCB6F15824015FA8B1A7758B399C1EF7E.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.uasset'
+[2018.07.17-01.32.47:373][373]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.uasset
+[2018.07.17-01.32.48:717][454]BlueprintLog: New page: Compile SWAT_AnimBP
+[2018.07.17-01.32.48:746][454]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014424123cf0, Size=112
+[2018.07.17-01.32.48:746][454]LogUObjectGlobals: Created PersistentFrame Addr=0x000001442489e8d0, Size=112, SWAT_AnimBP_C_157 Function /Engine/Transient.REINST_SWAT_AnimBP_C_68:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.32.48:758][454]LogUObjectGlobals: Created PersistentFrame Addr=0x00000143e2f03340, Size=184, Default__SWAT_AnimBP_C Function /Game/ThirdPersonBP/Blueprints/Character/SWAT_AnimBP.SWAT_AnimBP_C:ExecuteUbergraph_SWAT_AnimBP
+[2018.07.17-01.32.48:865][454]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000144242e97c0, Size=112
+[2018.07.17-01.32.50:286][530]LogSlate: Window 'SWAT_AnimBP' being destroyed
+[2018.07.17-01.32.50:291][530]LogSlate: Window 'SWAT_AnimBP' being destroyed
+[2018.07.17-01.32.51:293][599]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.17-01.32.51:310][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.17-01.32.51:310][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.17-01.32.51:310][599]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 16, 2018, 1:32:51 PM)
+[2018.07.17-01.32.51:310][599]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.17-01.32.51:325][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014318s)
+[2018.07.17-01.32.51:325][599]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.17-01.32.51:326][599]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2018.07.17-01.32.51:326][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015473s)
+[2018.07.17-01.32.51:347][599]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001442489e8d0, Size=112
+[2018.07.17-01.32.51:351][599]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.17-01.32.51:367][599]LogInit: FAudioDevice initialized.
+[2018.07.17-01.32.51:397][599]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.17-01.32.51:399][599]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.16-19.32.51
+[2018.07.17-01.32.51:400][599]LogWorld: Bringing up level for play took: 0.001637
+[2018.07.17-01.32.51:401][599]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.041
+[2018.07.17-01.32.51:401][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.17-01.33.05:627][297]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.17-01.33.05:663][297]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.17-01.33.06:331][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.17-01.33.06:612][373]LogSavePackage: Save=101.95ms
+[2018.07.17-01.33.06:612][373]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/ThirdPersonExampleMap913177EA4262AD78B8A50FB850564C58.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.07.17-01.33.06:615][373]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.07.17-01.33.06:810][373]LogSavePackage: Save=114.10ms
+[2018.07.17-01.33.06:810][373]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/ThirdPersonExampleMap_BuiltDataD99964344C9A2C00A0D110B23723EB13.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.07.17-01.33.06:811][373]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
