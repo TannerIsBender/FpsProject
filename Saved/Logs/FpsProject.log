@@ -16225,3 +16225,132 @@ LogInit: Object subsystem initialized
 [2018.07.18-23.25.54:940][924]LogWorld: Bringing up level for play took: 0.003740
 [2018.07.18-23.25.54:943][924]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.22
 [2018.07.18-23.25.54:943][924]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.18-23.25.58:324][301]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Deactivate_ADS_CharacterMovement from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Set MaxWalkSpeed in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_Deactivate_ADS_CharacterMovement
+[2018.07.18-23.25.58:324][301]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Set MaxWalkSpeed in graph: EventGraph in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.07.18-23.47.15:606][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.18-23.47.15:649][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.18-23.47.18:813][870]Cmd: SELECT NONE
+[2018.07.18-23.47.19:713][978]Cmd: SELECT NONE
+[2018.07.18-23.47.20:171][ 33]Cmd: SELECT NONE
+[2018.07.18-23.47.20:539][ 77]Cmd: SELECT NONE
+[2018.07.18-23.47.45:434][233]LogSavePackage: Save=128.42ms
+[2018.07.18-23.47.45:434][233]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/ThirdPersonExampleMap_Auto8D2D858624C163599788905A14FBD7B56.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2018.07.18-23.47.45:435][233]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap
+[2018.07.18-23.47.45:437][233]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.172
+[2018.07.18-23.47.45:437][233]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.172
+[2018.07.18-23.50.07:577][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-23.50.37:123][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-23.50.37:207][755]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-23.50.37:237][755]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.18-23.50.37:237][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-23.50.37:237][755]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 18, 2018, 11:50:37 AM)
+[2018.07.18-23.50.37:237][755]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.18-23.50.37:254][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015957s)
+[2018.07.18-23.50.37:255][755]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.18-23.50.37:255][755]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2018.07.18-23.50.37:255][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017016s)
+[2018.07.18-23.50.37:283][755]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-23.50.37:298][755]LogInit: FAudioDevice initialized.
+[2018.07.18-23.50.37:332][755]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.18-23.50.37:335][755]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.18-17.50.37
+[2018.07.18-23.50.37:337][755]LogWorld: Bringing up level for play took: 0.003766
+[2018.07.18-23.50.37:339][755]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.176
+[2018.07.18-23.50.37:339][755]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.18-23.50.38:155][845]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Deactivate_ADS_CharacterMovement from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Set MaxWalkSpeed in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_Deactivate_ADS_CharacterMovement
+[2018.07.18-23.50.38:155][845]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Set MaxWalkSpeed in graph: EventGraph in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.07.18-23.50.40:737][151]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character from function: 'Reload' from node: Return Node in graph: Reload in object: Weapon_Base with description: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+[2018.07.18-23.50.45:806][756]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_M4A1_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_M4A1_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/Weapon_M4A1.Weapon_M4A1_C:Reload:0262
+[2018.07.18-23.50.45:807][756]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character from function: 'Reload' from node: Return Node in graph: Reload in object: Weapon_M4A1 with description: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+[2018.07.18-23.50.54:062][705]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_M4A1_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_M4A1_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/Weapon_M4A1.Weapon_M4A1_C:Reload:0262
+[2018.07.18-23.50.54:062][705]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character from function: 'Reload' from node: Return Node in graph: Reload in object: Weapon_M4A1 with description: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+[2018.07.18-23.51.00:137][416]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_M4A1_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_M4A1_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/Weapon_M4A1.Weapon_M4A1_C:Reload:0262
+[2018.07.18-23.51.00:137][416]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character from function: 'Reload' from node: Return Node in graph: Reload in object: Weapon_M4A1 with description: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+[2018.07.18-23.51.02:051][638]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.18-23.51.02:147][638]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.18-23.51.08:902][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-23.51.09:151][894]LogSavePackage: Save=136.07ms
+[2018.07.18-23.51.09:151][894]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/ThirdPersonExampleMapDC1259CD4D74894392961EB3732831B3.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.07.18-23.51.09:154][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.07.18-23.51.09:316][894]LogSavePackage: Save=121.56ms
+[2018.07.18-23.51.09:316][894]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/ThirdPersonExampleMap_BuiltData54A2BC2647782C4734571B90A73D612C.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.07.18-23.51.09:317][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.07.18-23.52.53:886][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-23.52.59:825][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-23.53.10:880][844]BlueprintLog: New page: Compile Weapon_M4A1
+[2018.07.18-23.53.10:913][844]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023913ec6660, Size=144
+[2018.07.18-23.53.10:913][844]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023933493740, Size=144, Default__Weapon_M4A1_C Function /Engine/Transient.REINST_Weapon_M4A1_C_1218:ExecuteUbergraph_Weapon_M4A1
+[2018.07.18-23.53.10:917][844]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023933491440, Size=144, Default__Weapon_M4A1_C Function /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/Weapon_M4A1.Weapon_M4A1_C:ExecuteUbergraph_Weapon_M4A1
+[2018.07.18-23.53.12:751][947]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.18-23.53.19:597][521]BlueprintLog: New page: Compile Weapon_Base
+[2018.07.18-23.53.19:691][521]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000237a80a7380, Size=144
+[2018.07.18-23.53.19:691][521]LogUObjectGlobals: Created PersistentFrame Addr=0x00000237db311120, Size=144, Default__Weapon_Base_C Function /Engine/Transient.REINST_Weapon_Base_C_1227:ExecuteUbergraph_Weapon_Base
+[2018.07.18-23.53.19:694][521]LogUObjectGlobals: Created PersistentFrame Addr=0x00000237a80a6020, Size=144, Default__Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.07.18-23.53.20:805][578]LogSavePackage: Save=51.72ms
+[2018.07.18-23.53.20:805][578]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/Weapon_Base4D24555C4563A9C31152A0A92D8F7C40.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.uasset'
+[2018.07.18-23.53.20:807][578]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.uasset
+[2018.07.18-23.53.22:168][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-23.53.23:192][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-23.53.24:565][821]LogSlate: Window 'Save Content' being destroyed
+[2018.07.18-23.53.24:578][821]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.18-23.53.24:651][821]LogSavePackage: Save=47.87ms
+[2018.07.18-23.53.24:651][821]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/Weapon_M4A14D7B735249F66D93C3745A92689E32BB.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Blueprints/Weapons/M4A1/Weapon_M4A1.uasset'
+[2018.07.18-23.53.24:654][821]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Blueprints/Weapons/M4A1/Weapon_M4A1.uasset
+[2018.07.18-23.53.30:064][821]LogSavePackage: Save=164.52ms
+[2018.07.18-23.53.30:064][821]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/ThirdPersonExampleMap8659B1D1483DEC1ED53BB7AAAF2887E2.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.07.18-23.53.30:067][821]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.07.18-23.53.30:101][821]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 5.435
+[2018.07.18-23.53.32:233][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-23.53.32:317][ 83]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-23.53.32:344][ 83]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.18-23.53.32:345][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-23.53.32:345][ 83]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 18, 2018, 11:53:32 AM)
+[2018.07.18-23.53.32:345][ 83]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.18-23.53.32:359][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014013s)
+[2018.07.18-23.53.32:360][ 83]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.18-23.53.32:360][ 83]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2018.07.18-23.53.32:360][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014962s)
+[2018.07.18-23.53.32:380][ 83]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000237db311120, Size=144
+[2018.07.18-23.53.32:380][ 83]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023933493740, Size=144
+[2018.07.18-23.53.32:386][ 83]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-23.53.32:400][ 83]LogInit: FAudioDevice initialized.
+[2018.07.18-23.53.32:430][ 83]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.18-23.53.32:433][ 83]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.18-17.53.32
+[2018.07.18-23.53.32:434][ 83]LogWorld: Bringing up level for play took: 0.003253
+[2018.07.18-23.53.32:436][ 83]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.727
+[2018.07.18-23.53.32:436][ 83]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.18-23.53.33:124][158]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Deactivate_ADS_CharacterMovement from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Set MaxWalkSpeed in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_Deactivate_ADS_CharacterMovement
+[2018.07.18-23.53.33:124][158]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Set MaxWalkSpeed in graph: EventGraph in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.07.18-23.53.34:859][366]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character from function: 'Reload' from node: Return Node in graph: Reload in object: Weapon_Base with description: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+[2018.07.18-23.53.39:652][939]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character from function: 'Reload' from node: Return Node in graph: Reload in object: Weapon_Base with description: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+[2018.07.18-23.53.45:053][579]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_M4A1_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_M4A1_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/Weapon_M4A1.Weapon_M4A1_C:Reload:0262
+[2018.07.18-23.53.45:053][579]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character from function: 'Reload' from node: Return Node in graph: Reload in object: Weapon_M4A1 with description: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+[2018.07.18-23.53.47:865][916]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.18-23.53.47:903][916]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.18-23.54.00:879][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-23.54.10:224][178]LogUObjectBase: Warning: Object is not registered
+[2018.07.18-23.54.10:236][179]LogUObjectBase: Warning: Object is not registered
+[2018.07.18-23.54.10:236][179]LogUObjectBase: Warning: Object is not registered
+[2018.07.18-23.54.10:238][179]LogUObjectBase: Warning: Object is not registered
+[2018.07.18-23.54.27:728][307]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.18-23.54.27:728][307]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.18-23.54.27:729][307]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.18-23.54.27:730][307]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.18-23.54.27:731][307]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.18-23.54.27:737][307]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.18-23.54.46:889][310]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.18-23.54.46:889][310]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.18-23.54.47:040][317]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.18-23.54.47:040][317]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.18-23.54.47:042][317]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.18-23.54.47:043][317]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.18-23.54.47:044][317]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.18-23.54.47:052][317]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.07.18-23.54.50:657][520]LogUObjectGlobals: Created PersistentFrame Addr=0x00000238ae385f40, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
