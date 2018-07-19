@@ -17002,3 +17002,125 @@ LogInit: Object subsystem initialized
 [2018.07.19-01.04.44:000][401]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character from function: 'Reload' from node: Return Node in graph: Reload in object: Weapon_Base with description: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
 [2018.07.19-01.04.44:509][462]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2018.07.19-01.04.44:547][462]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.19-01.05.45:220][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-01.05.45:881][736]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (LeftArm_StaticMesh)
+[2018.07.19-01.05.45:924][736]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-01.05.46:804][797]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.07.19-01.05.46:845][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-01.05.48:878][989]LogSavePackage: Save=137.21ms
+[2018.07.19-01.05.48:878][989]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/ThirdPersonExampleMapDB401D55431FB760993FC3BA13CB40D4.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.07.19-01.05.48:881][989]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.07.19-01.05.49:049][989]LogSavePackage: Save=125.55ms
+[2018.07.19-01.05.49:049][989]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/ThirdPersonExampleMap_BuiltData27484D474AC8DD30AA1F6DB85FC4971A.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.07.19-01.05.49:050][989]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.07.19-01.06.29:520][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-01.09.33:526][413]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.19-01.12.08:553][725]LogUObjectGlobals: Created PersistentFrame Addr=0x00000238fcd58f00, Size=4, Default__SKEL_Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.SKEL_Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.07.19-01.12.54:040][186]BlueprintLog: New page: Compile Weapon_Base
+[2018.07.19-01.12.54:064][186]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000238fcd58f00, Size=4
+[2018.07.19-01.12.54:064][186]LogUObjectGlobals: Created PersistentFrame Addr=0x00000238f6642490, Size=4, Default__SKEL_Weapon_Base_C Function /Engine/Transient.REINST_SKEL_Weapon_Base_C_1375:ExecuteUbergraph_Weapon_Base
+[2018.07.19-01.12.54:095][186]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002394dff6400, Size=832
+[2018.07.19-01.12.54:095][186]LogUObjectGlobals: Created PersistentFrame Addr=0x000002395ae7f580, Size=832, Default__Weapon_Base_C Function /Engine/Transient.REINST_Weapon_Base_C_1381:ExecuteUbergraph_Weapon_Base
+[2018.07.19-01.12.54:101][186]LogUObjectGlobals: Created PersistentFrame Addr=0x000002395e05fa00, Size=648, Default__Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.07.19-01.12.54:369][186]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000238f6642490, Size=4
+[2018.07.19-01.15.25:870][ 15]LogEditorTransaction: Undo Move Nodes
+[2018.07.19-01.15.25:875][ 15]LogUObjectGlobals: Created PersistentFrame Addr=0x00000238d3e1afc0, Size=4, Default__SKEL_Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.SKEL_Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.07.19-01.16.09:300][ 50]BlueprintLog: New page: Compile Weapon_Base
+[2018.07.19-01.16.09:324][ 50]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000238d3e1afc0, Size=4
+[2018.07.19-01.16.09:324][ 50]LogUObjectGlobals: Created PersistentFrame Addr=0x000002390d47db88, Size=4, Default__SKEL_Weapon_Base_C Function /Engine/Transient.REINST_SKEL_Weapon_Base_C_1386:ExecuteUbergraph_Weapon_Base
+[2018.07.19-01.16.09:361][ 50]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002395e05fa00, Size=648
+[2018.07.19-01.16.09:361][ 50]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023961beb700, Size=648, Weapon_Base_C_384 Function /Engine/Transient.REINST_Weapon_Base_C_1392:ExecuteUbergraph_Weapon_Base
+[2018.07.19-01.16.09:376][ 50]LogBlueprint: Error: [Compiler Weapon_Base] The type of  Object  is undetermined.  Connect something to  Cast To SimpleAI  to imply a specific type.
+[2018.07.19-01.16.09:378][ 50]LogBlueprint: Error: [Compiler Weapon_Base] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.07.19-01.16.09:379][ 50]LogUObjectGlobals: Created PersistentFrame Addr=0x000002395e05fa00, Size=752, Default__Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.07.19-01.16.09:487][ 50]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002395ae7f580, Size=832
+[2018.07.19-01.16.09:487][ 50]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002390d47db88, Size=4
+[2018.07.19-01.16.09:550][ 50]LogBlueprint: Warning: [Compiler Weapon_Base] [9557.85] Compile of Weapon_Base failed. 2 Fatal Issue(s) 0 Warning(s) [in 250 ms] (/Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base)
+[2018.07.19-01.16.47:333][ 74]BlueprintLog: New page: Compile Weapon_Base
+[2018.07.19-01.16.47:392][ 74]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002395e05fa00, Size=752
+[2018.07.19-01.16.47:392][ 74]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239618ebd00, Size=752, Default__Weapon_Base_C Function /Engine/Transient.REINST_Weapon_Base_C_1401:ExecuteUbergraph_Weapon_Base
+[2018.07.19-01.16.47:397][ 74]LogBlueprint: Error: [Compiler Weapon_Base] The type of  Object  is undetermined.  Connect something to  Cast To SimpleAI  to imply a specific type.
+[2018.07.19-01.16.47:398][ 74]LogBlueprint: Error: [Compiler Weapon_Base] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.07.19-01.16.47:399][ 74]LogUObjectGlobals: Created PersistentFrame Addr=0x000002396277cc00, Size=928, Default__Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.07.19-01.16.47:507][ 74]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023961beb700, Size=648
+[2018.07.19-01.16.47:563][ 74]LogBlueprint: Warning: [Compiler Weapon_Base] [9595.87] Compile of Weapon_Base failed. 2 Fatal Issue(s) 0 Warning(s) [in 230 ms] (/Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base)
+[2018.07.19-01.17.44:606][908]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239618ebd00, Size=752
+[2018.07.19-01.17.44:607][908]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.021
+[2018.07.19-01.17.44:612][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base] ([1] browsable assets)...
+[2018.07.19-01.17.44:621][908]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base]
+[2018.07.19-01.17.44:621][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base]
+[2018.07.19-01.17.44:708][908]LogSavePackage: Save=76.52ms
+[2018.07.19-01.17.44:708][908]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/Weapon_Base_Auto17C020D0442FCBC95FE124CB9D6B7C9CD.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base_Auto1.uasset'
+[2018.07.19-01.17.44:709][908]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base_Auto1.uasset
+[2018.07.19-01.17.44:709][908]LogFileHelpers: Auto-saving content packages took 0.099
+[2018.07.19-01.17.44:831][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-01.17.55:261][362]BlueprintLog: New page: Compile Weapon_Base
+[2018.07.19-01.17.55:321][362]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002396277cc00, Size=928
+[2018.07.19-01.17.55:321][362]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023961a55000, Size=928, Default__Weapon_Base_C Function /Engine/Transient.REINST_Weapon_Base_C_1410:ExecuteUbergraph_Weapon_Base
+[2018.07.19-01.17.55:328][362]LogUObjectGlobals: Created PersistentFrame Addr=0x000002396277c800, Size=920, Default__Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.07.19-01.18.19:967][186]LogSavePackage: Save=78.23ms
+[2018.07.19-01.18.19:967][186]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/Weapon_Base1646EC884B45C2E8F15EC1A06FC858FC.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.uasset'
+[2018.07.19-01.18.19:969][186]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.uasset
+[2018.07.19-01.18.23:595][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-01.18.24:655][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-01.18.24:964][576]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.19-01.18.24:993][576]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.19-01.18.24:993][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.19-01.18.24:994][576]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 18, 2018, 1:18:24 PM)
+[2018.07.19-01.18.24:994][576]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.19-01.18.25:010][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016350s)
+[2018.07.19-01.18.25:011][576]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.19-01.18.25:011][576]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2018.07.19-01.18.25:012][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017487s)
+[2018.07.19-01.18.25:036][576]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023961a55000, Size=928
+[2018.07.19-01.18.25:041][576]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.19-01.18.25:056][576]LogInit: FAudioDevice initialized.
+[2018.07.19-01.18.25:089][576]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.19-01.18.25:092][576]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.18-19.18.25
+[2018.07.19-01.18.25:093][576]LogWorld: Bringing up level for play took: 0.003545
+[2018.07.19-01.18.25:096][576]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.357
+[2018.07.19-01.18.25:096][576]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.19-01.18.25:635][637]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Deactivate_ADS_CharacterMovement from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Set MaxWalkSpeed in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_Deactivate_ADS_CharacterMovement
+[2018.07.19-01.18.25:635][637]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Set MaxWalkSpeed in graph: EventGraph in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.07.19-01.18.30:933][260]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character from function: 'Reload' from node: Return Node in graph: Reload in object: Weapon_Base with description: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+[2018.07.19-01.18.34:513][679]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=-1.33 Y=17.01 Z=0.00 Location: X=-1807.53 Y=-464.56 Z=228.39 Normal: X=-0.84 Y=-0.54 Z=0.00 PenetrationDepth:2.679 Actor:SimpleAI2_284 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2018.07.19-01.18.38:799][180]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character from function: 'Reload' from node: Return Node in graph: Reload in object: Weapon_Base with description: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+[2018.07.19-01.18.41:382][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.19-01.18.41:437][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.19-01.18.42:305][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-01.18.51:237][245]BlueprintLog: New page: Compile SimpleAI
+[2018.07.19-01.18.51:333][245]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002396277c800, Size=920
+[2018.07.19-01.18.51:333][245]LogUObjectGlobals: Created PersistentFrame Addr=0x000002394d44a400, Size=920, Default__Weapon_Base_C Function /Engine/Transient.REINST_Weapon_Base_C_1416:ExecuteUbergraph_Weapon_Base
+[2018.07.19-01.18.51:334][245]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023956c46080, Size=344
+[2018.07.19-01.18.51:334][245]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023957578700, Size=344, Default__SimpleAI_C Function /Engine/Transient.REINST_SimpleAI_C_1417:ExecuteUbergraph_SimpleAI
+[2018.07.19-01.18.51:345][245]LogUObjectGlobals: Created PersistentFrame Addr=0x000002394d44bc00, Size=920, Default__Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.07.19-01.18.51:347][245]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239625bcd00, Size=344, Default__SimpleAI_C Function /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI_C:ExecuteUbergraph_SimpleAI
+[2018.07.19-01.18.52:278][257]BlueprintLog: New page: Compile SimpleAI
+[2018.07.19-01.18.52:325][257]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002394d44bc00, Size=920
+[2018.07.19-01.18.52:325][257]LogUObjectGlobals: Created PersistentFrame Addr=0x00000238a5f75c00, Size=920, Weapon_Base_C_413 Function /Engine/Transient.REINST_Weapon_Base_C_1424:ExecuteUbergraph_Weapon_Base
+[2018.07.19-01.18.52:326][257]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239625bcd00, Size=344
+[2018.07.19-01.18.52:326][257]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239362ed480, Size=344, SimpleAI_C_808 Function /Engine/Transient.REINST_SimpleAI_C_1425:ExecuteUbergraph_SimpleAI
+[2018.07.19-01.18.52:336][257]LogUObjectGlobals: Created PersistentFrame Addr=0x000002395653f400, Size=920, Default__Weapon_Base_C Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2018.07.19-01.18.52:337][257]LogUObjectGlobals: Created PersistentFrame Addr=0x00000238bf916980, Size=344, Default__SimpleAI_C Function /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI_C:ExecuteUbergraph_SimpleAI
+[2018.07.19-01.18.53:019][257]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002394d44a400, Size=920
+[2018.07.19-01.18.53:305][265]LogSavePackage: Save=35.21ms
+[2018.07.19-01.18.53:305][265]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/SimpleAI8991C5D044E323FF2E8AD296C66B12B7.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2018.07.19-01.18.53:307][265]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset
+[2018.07.19-01.18.54:222][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-01.18.55:756][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-01.18.55:894][528]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000238a5f75c00, Size=920
+[2018.07.19-01.18.56:039][528]LogSavePackage: Save=131.09ms
+[2018.07.19-01.18.56:039][528]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/ThirdPersonExampleMap33B9E5744AF7EA1803616E85272A2F7C.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.07.19-01.18.56:042][528]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.07.19-01.18.56:200][528]LogSavePackage: Save=115.44ms
+[2018.07.19-01.18.56:200][528]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/ThirdPersonExampleMap_BuiltData2BD9249A49C67D27C90729B3E30D0E3A.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.07.19-01.18.56:202][528]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.07.19-01.18.57:034][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-01.18.57:154][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239362ed480, Size=344
+[2018.07.19-01.18.58:697][800]LogSavePackage: Save=130.64ms
+[2018.07.19-01.18.58:697][800]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/ThirdPersonExampleMapD52D9DE341A4A400333136A3729A09FC.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.07.19-01.18.58:700][800]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.07.19-01.18.58:851][800]LogSavePackage: Save=117.01ms
+[2018.07.19-01.18.58:851][800]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/ThirdPersonExampleMap_BuiltData6C4ADF76427EDFEDBD1AEDA0D6BFF164.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.07.19-01.18.58:853][800]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.07.19-01.18.59:721][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
