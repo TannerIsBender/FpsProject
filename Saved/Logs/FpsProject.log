@@ -17144,3 +17144,22 @@ LogInit: Object subsystem initialized
 [2018.07.19-01.22.39:588][504]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239105ec400, Size=1008, ThirdPersonCharacter_C_2305 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_1495:ExecuteUbergraph_ThirdPersonCharacter
 [2018.07.19-01.22.39:606][504]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023950369400, Size=1008, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
 [2018.07.19-01.22.39:984][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002392674bfa8, Size=4
+[2018.07.19-01.27.57:439][463]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2018.07.19-01.27.57:443][463]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2018.07.19-01.27.57:550][463]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.19-01.27.57:628][463]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.19-01.28.01:490][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-01.29.07:093][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023957578700, Size=344
+[2018.07.19-01.29.07:093][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239105ec400, Size=1008
+[2018.07.19-01.29.07:253][807]LogSavePackage: Save=139.28ms
+[2018.07.19-01.29.07:254][807]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/ThirdPersonExampleMap_Auto22EF3C21C48189041892377B92CDC4206.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.07.19-01.29.07:255][807]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.07.19-01.29.07:258][807]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.185
+[2018.07.19-01.29.07:258][807]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.185
+[2018.07.19-01.29.07:261][807]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.07.19-01.29.07:281][807]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.07.19-01.29.07:281][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.07.19-01.29.07:508][807]LogSavePackage: Save=143.54ms
+[2018.07.19-01.29.07:508][807]LogSavePackage: Moving '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/ThirdPersonCharacter_Auto2021D8AD54EB932147053FD9A9AB7FDBE.tmp' to '../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2018.07.19-01.29.07:536][807]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tanne/Documents/Unreal Projects/FpsProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2018.07.19-01.29.07:536][807]LogFileHelpers: Auto-saving content packages took 0.276
